@@ -1,72 +1,36 @@
-# Product Management System
 
-[![Open in GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+Welcome to our online Order Management web application!
+This application allows customers to easily place orders while providing administrators with a
+user-friendly interface to manage inventory, view orders, and generate reports.
 
-It is a marketplace where customer can place order and Admin can manage inventory of products, view order and generate the report.
 
-## Technology Used
--   Maven for Dependency Management
--   Spring MVC for Web application development
--   Spring Data JPA for Creating Custom Repository
--   Spring Boot for Autoconfiguration
--   Spring Security for Authentication & Authorisation
--   Hibernate Validator for form data validation
--   H2 In-memory Database for Storing data
--   Java Mail API to send HTML E-Mail over SMTP
--   JSTL
 
-## Requirements
--   Java
--   Oracle
--   Apache Tomcat
--   Maven
+## We have utilized several technologies to create a seamless and efficient user experience.
+- Maven is used for dependency management
+- Spring MVC for web application development,
+- Spring Data JPA for creating custom repositories, and
+- Spring Boot for autoconfiguration.
 
-## Configuration
-Change the SMTP details in "application.properties"
+- Additionally, Spring Security is utilized for authentication and authorization,
+- Hibernate Validator for form data validation, and
+- H2 In-memory Database for data storage.
+- The Java Mail API is used to send HTML E-Mail over SMTP.
+
 
 ## Login Details
 
 #### Admin
 Username: admin@gmail.com
-
 Password: admin
 
-#### Customer
-Username: customer@gmail.com
+#### Customers
+There are multiple user accounts. Some of them are mentioned below:
 
-Password: user
+Username: user1@gmail.com
+Password: password1
 
-## Database Schema Diagram
+Username: user2@gmail.com
+Password: password2
 
-!["Database Schema Diagram"](https://github.com/anantjain6/ProductManagementSystem/blob/master/document/schema.png)
-
-## Screenshots
-
-#### Home Page
-!["Home Page"](https://github.com/anantjain6/ProductManagementSystem/blob/master/document/Home.png)
-
-#### Login Page
-!["Login Page"](https://github.com/anantjain6/ProductManagementSystem/blob/master/document/Login.png)
-
-#### Show available product to place order
-!["Show available product to place order"](https://github.com/anantjain6/ProductManagementSystem/blob/master/document/Place_Order.png)
-
-#### Successfully Placed Order
-!["Successfully Placed Order"](https://github.com/anantjain6/ProductManagementSystem/blob/master/document/Order_Placed.png)
-
-#### E-Mail on placing order
-!["E-Mail on placing order"](https://github.com/anantjain6/ProductManagementSystem/blob/master/document/EMail.png)
-
-#### Admin can see which product sold how much
-!["Admin can see which product sold how much"](https://github.com/anantjain6/ProductManagementSystem/blob/master/document/Admin_Product_Report.png)
-
-## Contribution Guildlines
--    Raise an issue for enhancement, new feature, bug report etc.
--    Folk this repository
--    Create new branch in your folked repository
--    Do changes in that new branch
--    Raise a pull request to master branch. Do mention the respective issue in the pull request.
-
-## License
-
-This project is licensed under the MIT License
+Username: user3@gmail.com
+Password: password3
