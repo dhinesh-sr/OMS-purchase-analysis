@@ -17,20 +17,31 @@ user-friendly interface to manage inventory, view orders, and generate reports.
 - The Java Mail API is used to send HTML E-Mail over SMTP.
 
 
-## Login Details
+[//]: # (## Login Details)
 
-#### Admin
-Username: admin@gmail.com
-Password: admin
+[//]: # ()
+[//]: # (#### Admin)
 
-#### Customers
-There are multiple user accounts. Some of them are mentioned below:
+[//]: # (Username: admin@gmail.com)
 
-Username: user1@gmail.com
-Password: password1
+[//]: # (Password: admin)
 
-Username: user2@gmail.com
-Password: password2
+[//]: # ()
+[//]: # (#### Customers)
 
-Username: user3@gmail.com
-Password: password3
+[//]: # (There are multiple user accounts. Some of them are mentioned below:)
+
+[//]: # ()
+[//]: # (Username: user1@gmail.com)
+
+[//]: # (Password: password1)
+
+[//]: # ()
+[//]: # (Username: user2@gmail.com)
+
+[//]: # (Password: password2)
+
+[//]: # ()
+[//]: # (Username: user3@gmail.com)
+
+[//]: # (Password: password3)
