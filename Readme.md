@@ -13,7 +13,7 @@ user-friendly interface to manage inventory, view orders, and generate reports.
 
 - Additionally, Spring Security is utilized for authentication and authorization,
 - Hibernate Validator for form data validation, and
-- H2 In-memory Database for data storage.
+- MySQL Database for data storage.
 - The Java Mail API is used to send HTML E-Mail over SMTP.
 
 
